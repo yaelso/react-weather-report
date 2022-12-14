@@ -1,7 +1,7 @@
 # react-weather-report
 A solo React port of the Ada C18 Weather Report group project
 
-### Content Goals
+## Content Goals
 - An element that displays the temperature
 - A clickable element to increase temperature
 - A clickable element to decrease temperature
